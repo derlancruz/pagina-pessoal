@@ -144,7 +144,10 @@ section {
     left: 0;
     width: 0;
     height: 100%;
-    border-right: 2px solid var(--main-color)v ;
+
+    border-right: 2px solid var(--main-color);
+
+    border-right: 2px solid var(--bg-color) ;
     z-index: -1;
     
 }
@@ -278,7 +281,7 @@ section {
 }
 
 .home-imgHover:hover {
-    background: var(--bg-color);
+    background: var(--second-bg-color);
     opacity: .8;
 }
 
