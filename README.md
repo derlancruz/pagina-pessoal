@@ -45,12 +45,7 @@ git clone https://github.com/derlancruz/pagina-pessoal/tree/main
 
 
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-
-
 # Autor
 
-Wellington Mazoni de Andrade
+Derlan Cruz
 
